@@ -137,71 +137,11 @@ A comprehensive guide to the best books for learning Web Development (HTML, CSS,
 To track my reading and learning progress, this repository uses a structured folder system. Each book has its own folder, and within each folder, I’ll maintain a `README.md` file to log my progress by chapter or section, along with key takeaways or projects.
 
 ### Folder Structure
-```
-web-dev-journey/
-├── 01-html-css-design-and-build-websites-jon-duckett/
-│   ├── notes.md
-│   ├── chapter-1-intro/
-│   │   ├── example.html
-│   │   └── notes.md
-│   ├── chapter-2-structure/
-│   │   └── notes.md
-│   └── ... (more chapters)
-│
-├── 02-javascript-and-jquery-jon-duckett/
-│   ├── notes.md
-│   ├── chapter-1-basics/
-│   │   ├── example.js
-│   │   └── notes.md
-│   ├── chapter-2-dom/
-│   │   └── notes.md
-│   └── ...
-│
-├── 03-eloquent-javascript-marijn-haverbeke/
-│   ├── notes.md
-│   ├── chapter-1-values-types/
-│   │   ├── example.js
-│   │   └── notes.md
-│   ├── chapter-2-program-structure/
-│   │   └── notes.md
-│   └── ...
-│
-├── 04-you-dont-know-js-kyle-simpson/
-│   ├── notes.md
-│   ├── up-and-going/
-│   │   ├── example.js
-│   │   └── notes.md
-│   ├── scope-and-closures/
-│   │   ├── example.js
-│   │   └── notes.md
-│   └── ... (other books in series)
-│
-├── 05-javascript-the-good-parts-douglas-crockford/
-│   ├── notes.md
-│   └── topics/
-│       ├── functions.md
-│       ├── objects.md
-│       └── ... (other good parts)
-│
-├── 06-css-secrets-lea-verou/
-│   ├── notes.md
-│   ├── chapter-1/
-│   │   └── notes.md
-│   ├── chapter-2/
-│   │   └── notes.md
-│   └── ...
-│
-├── 07-learning-web-design-jennifer-robbins/
-│   ├── notes.md
-│   ├── chapter-1-intro/
-│   │   └── notes.md
-│   ├── chapter-2/
-│   │   └── notes.md
-│   └── ...
-│
-└── README.md
 
-```
+JavaScriptMastery/
+- [01-html-css-design-and-build-websites-jon-duckett](01-html-css-design-and-build-websites-jon-duckett/)
+- [02-javascript-and-jquery-jon-duckett](02-javascript-and-jquery-jon-duckett/)
+
 
 ### Tips for Success
 - **Read Sequentially**: Follow the book order to build skills progressively.
